@@ -6,12 +6,12 @@
 
 **Choose your Path:**
 1. **Become Cisco Certified Support Technician (CCST) - Networking** by following the path shown below
-    You can start the first Course "Introduction to CyberSecurity: [by clicking the link](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US&instance_id=8d91886e-bc09-49ca-b0af-1bb816d49a00)
+    You can start the first Course **"Network Basics":** [by clicking the link](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US&instance_id=8d91886e-bc09-49ca-b0af-1bb816d49a00)
      ![Cyber Security](1.jpg)
    
 
 3. **Become Cisco Certified Support Technician (CCST) - Cyber Security** by following the path shown below
-   You can start the first Course "Network Basics: [by clicking the link](https://skillsforall.com/course/networking-basics?courseLang=en-US&instance_id=657f9b59-7520-43c3-ab76-40cf2cb8e281)
+   You can start the first Course **"Introduction to CyberSecurity":** [by clicking the link](https://skillsforall.com/course/networking-basics?courseLang=en-US&instance_id=657f9b59-7520-43c3-ab76-40cf2cb8e281)
     ![Cyber Security](2.jpg)
     
 
