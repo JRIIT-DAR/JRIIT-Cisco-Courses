@@ -16,13 +16,14 @@
     
 
   Other Courses are:
-  **1. Operating Systems Basics** [Click the link](https://skillsforall.com/course/operating-systems-basics?courseLang=en-US&instance_id=9ff262e3-7ca2-4b9e-b45d-c15954368b67)
-  **2. Computer Hardware Basics**  [Click the link](https://skillsforall.com/course/computer-hardware-basics?courseLang=en-US&instance_id=3689f92b-1e24-400b-ba81-ea689b60a757)
-  **3. Getting Started with Cisco Packet Tracer** [Click the Link](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US&instance_id=76b6be7e-fa50-40b9-8e1c-42826f5bf5f0)
-  **4. Introduction to Data Science** [Click the link](https://skillsforall.com/course/introduction-data-science?courseLang=en-US&instance_id=61f18b95-945c-45d0-87e5-0d47bd241059)
-  **5. Engaging Stakeholders for Success** [Click the link](https://skillsforall.com/course/engaging-stakeholders?courseLang=en-US&instance_id=16482249-2362-4f0f-9ff6-335a6b4232f3)
-  **6. Python Essentials 1** [Click the Link](https://skillsforall.com/course/python-essentials-1?courseLang=en-US&instance_id=c36c1314-46f0-42ce-989e-b9234f624ab7)
-  
+  1. Operating Systems Basics [Click the link](https://skillsforall.com/course/operating-systems-basics?courseLang=en-US&instance_id=9ff262e3-7ca2-4b9e-b45d-c15954368b67)
+  2. Computer Hardware Basics [Click the link](https://skillsforall.com/course/computer-hardware-basics?courseLang=en-US&instance_id=3689f92b-1e24-400b-ba81-ea689b60a757)
+  3. Getting Started with Cisco Packet Tracer [Click the Link](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US&instance_id=76b6be7e-fa50-40b9-8e1c-42826f5bf5f0)
+  4. Introduction to Data Science [Click the link](https://skillsforall.com/course/introduction-data-science?courseLang=en-US&instance_id=61f18b95-945c-45d0-87e5-0d47bd241059)
+  5. Engaging Stakeholders for Success [Click the link](https://skillsforall.com/course/engaging-stakeholders?courseLang=en-US&instance_id=16482249-2362-4f0f-9ff6-335a6b4232f3)
+  6. Python Essentials 1 [Click the Link](https://skillsforall.com/course/python-essentials-1?courseLang=en-US&instance_id=c36c1314-46f0-42ce-989e-b9234f624ab7)
+
+  #  For More information on about Cisco COurses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu
 
 
     
