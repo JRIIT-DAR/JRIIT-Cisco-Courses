@@ -5,9 +5,10 @@
  Cisco partners with Credly to deliver its Professional badges through the Acclaim platform. Cisco’s Professional badge collection can be viewed on the Credly platform.
 
 Choose your Path:
- 1. Become Cisco Certified Support Technician (CCST) - Netorking by following the path shown below
+#  1. Become Cisco Certified Support Technician (CCST) - Netorking by following the path shown below
     ![Networking](1.jpg)
- 2. Become Cisco Certified Support Technician (CCST) - Cyber Security  by following the path shown below
+
+ # 2. Become Cisco Certified Support Technician (CCST) - Cyber Security  by following the path shown below
     ![Cyber Security](1.jpg)
 
 
