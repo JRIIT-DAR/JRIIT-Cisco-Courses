@@ -5,12 +5,12 @@
  Cisco partners with Credly to deliver its Professional badges through the Acclaim platform. Cisco’s Professional badge collection can be viewed on the Credly platform.
 
 **Choose your Path:**
-1. **Become Cisco Certified Support Technician (CCST) - Networking** by following the path shown below
+1. **Become Cisco Certified Support Technician (CCST) - Networking** by following the path shown below. 
     You can start the first Course **"Network Basics":** [by clicking the link](https://skillsforall.com/course/networking-basics?courseLang=en-US&instance_id=657f9b59-7520-43c3-ab76-40cf2cb8e281)
      ![Cyber Security](1.jpg)
    
 
-3. **Become Cisco Certified Support Technician (CCST) - Cyber Security** by following the path shown below
+3. **Become Cisco Certified Support Technician (CCST) - Cyber Security** by following the path shown below. 
    You can start the first Course **"Introduction to CyberSecurity":** [by clicking the link](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US&instance_id=8d91886e-bc09-49ca-b0af-1bb816d49a00)
     ![Cyber Security](2.jpg)
     
@@ -23,7 +23,7 @@
   5. Engaging Stakeholders for Success [Click the link](https://skillsforall.com/course/engaging-stakeholders?courseLang=en-US&instance_id=16482249-2362-4f0f-9ff6-335a6b4232f3)
   6. Python Essentials 1 [Click the Link](https://skillsforall.com/course/python-essentials-1?courseLang=en-US&instance_id=c36c1314-46f0-42ce-989e-b9234f624ab7)
 
-  #  For More information on about Cisco COurses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu
+  #  For More information on about Cisco Courses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu
 
 
     
