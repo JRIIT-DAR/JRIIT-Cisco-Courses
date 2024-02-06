@@ -15,7 +15,7 @@
     ![Cyber Security](2.jpg)
     
 
-  # Other Courses are:
+  **Other Courses are:**
   1. Operating Systems Basics [Click the link](https://skillsforall.com/course/operating-systems-basics?courseLang=en-US&instance_id=9ff262e3-7ca2-4b9e-b45d-c15954368b67)
   2. Computer Hardware Basics [Click the link](https://skillsforall.com/course/computer-hardware-basics?courseLang=en-US&instance_id=3689f92b-1e24-400b-ba81-ea689b60a757)
   3. Getting Started with Cisco Packet Tracer [Click the Link](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US&instance_id=76b6be7e-fa50-40b9-8e1c-42826f5bf5f0)
