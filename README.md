@@ -6,10 +6,9 @@
 
 Choose your Path:
 #  1. Become Cisco Certified Support Technician (CCST) - Netorking by following the path shown below
-      ![Cyber Security](2.jpg)
-    You can start the first Course "Network Basics: [by clicking the link](https://skillsforall.com/course/networking-basics?courseLang=en-US&instance_id=657f9b59-7520-43c3-ab76-40cf2cb8e281)
+     
 
- # 2. Become Cisco Certified Support Technician (CCST) - Cyber Security  by following the path shown below
+ #  2. Become Cisco Certified Support Technician (CCST) - Cyber Security  by following the path shown below
     ![Cyber Security](2.jpg)
     You can start the first Course "Network Basics: [by clicking the link](https://skillsforall.com/course/networking-basics?courseLang=en-US&instance_id=657f9b59-7520-43c3-ab76-40cf2cb8e281)
 
