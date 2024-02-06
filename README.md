@@ -23,7 +23,7 @@
   5. Engaging Stakeholders for Success [Click the link](https://skillsforall.com/course/engaging-stakeholders?courseLang=en-US&instance_id=16482249-2362-4f0f-9ff6-335a6b4232f3)
   6. Python Essentials 1 [Click the Link](https://skillsforall.com/course/python-essentials-1?courseLang=en-US&instance_id=c36c1314-46f0-42ce-989e-b9234f624ab7)
 
-  #  For More information on about Cisco Courses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu
+  **For More information on about Cisco Courses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu**
 
 
     
