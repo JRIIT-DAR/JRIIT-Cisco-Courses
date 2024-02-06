@@ -9,7 +9,7 @@ Choose your Path:
     ![Networking](1.jpg)
 
  # 2. Become Cisco Certified Support Technician (CCST) - Cyber Security  by following the path shown below
-    ![Cyber Security](1.jpg)
+    ![Cyber Security](2.jpg)
 
 
     
