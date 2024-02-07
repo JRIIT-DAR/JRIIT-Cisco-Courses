@@ -1,5 +1,5 @@
 # JRIIT-Cisco-Courses
-#  JR Institute of Information has patnered with Cisco Networking Academy which provides Self-Paced ,Online free Cources.
+#  JR Institute of Information has partnered with Cisco Networking Academy which provides Self-Paced ,Online free Courses.
  Whether you’re curious about tech or ready to build your career, find your fit with courses across foundational tech topics like Cybersecurity, Networking, Python, and Data Science. 
  Earn a digital badge for successfully completing pathway to verify your knowledge. Digital badges are the best tool to highlight your Cisco certifications and achievements on your online profiles, resumes and more. Join the group of Cisco certified professionals who are already sharing their skills this way.
  Cisco partners with Credly to deliver its Professional badges through the Acclaim platform. Cisco’s Professional badge collection can be viewed on the Credly platform.
@@ -23,7 +23,7 @@
   5. Engaging Stakeholders for Success [Click the link](https://skillsforall.com/course/engaging-stakeholders?courseLang=en-US&instance_id=16482249-2362-4f0f-9ff6-335a6b4232f3)
   6. Python Essentials 1 [Click the Link](https://skillsforall.com/course/python-essentials-1?courseLang=en-US&instance_id=c36c1314-46f0-42ce-989e-b9234f624ab7)
 
-  **For More information on about Cisco Courses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu**
+  **For More information on about Cisco Courses call us on +255 699 488 338/ +255 744 444 557 or visit our center 4th Floor, Raha Towers,Opp Maktaba Kuu, Dar-es-Salaam ,Tanzania**
 
 
     
